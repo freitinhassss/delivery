@@ -1,0 +1,192 @@
+*{
+    margin: 0;
+}
+#backg{ 
+    background: 
+    linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)),
+    url(image\ 9.png);
+    height: 100vh;
+    width: 99vw;       
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#flexp{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    
+}
+.logo{ 
+    padding-right: 240px;
+}
+.barra{
+    width: 670px;
+    height: 25px;
+    margin-right: 200px;
+}
+#fazerc{
+    padding-right: 50px;
+}
+.texta{
+    color: #FFE500; 
+    padding-left: 10px;
+    cursor: pointer;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+}
+#lsbarra{ 
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+}
+.barraop{ 
+    font-style: none;
+    padding-right: 150px;
+    cursor: pointer;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+}
+.barraop a{ 
+    text-decoration: none;
+    color: #FFE500; 
+}
+#textohome{ 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 200px;
+    font-size: 100px;
+    color: #ceb902;
+    -webkit-text-stroke-color: #af1b25;
+    -webkit-text-stroke-width: 3px;
+    font-family: "Limelight", sans-serif;
+}
+#backg2{ 
+    background-color: #af1b25;
+    height: 100vh;
+    width: 99vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#fundoamarelo{ 
+    background-color: #ceb902;
+    height: 50vh;
+    width: 70vw;
+}
+#flexprodutosp{
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#linha11fpp{ 
+    display: flex;
+    flex-direction: row;
+    margin-top: 70px;
+    margin-left: 130px;
+}
+.pname{ 
+    font-size: 25px;
+    padding-right: 350px;
+}
+#bestoptions{ 
+    padding-left: 40px;
+    padding-top: 30px;
+   
+}
+#bestoptions2{ 
+    padding-left: 45px;
+    padding-top: 30px;
+   
+}
+#titulov{ 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 60px;
+}
+#tituloconfig{
+    font-family: "Limelight", sans-serif;
+    font-size: 50px;
+}
+#rodape{ 
+    background-color: #ceb902;
+    height: 40vh;
+    width: 99vw;
+}
+#flexrodape{ 
+    display: flex;
+    flex-direction: row;
+    padding-top: 80px;
+    padding-left: 280px; 
+    list-style: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.legendrodape{ 
+    padding-right: 180px;
+}
+.icones{ 
+    padding-right: 250px;
+    padding-left: 100px;
+    cursor: pointer;
+}
+.icones2{ 
+    padding-right: 250px;
+    padding-left: 170px;
+    cursor: pointer;
+}
+.icones3{ 
+    padding-right: 250px;
+    padding-left: 70px;
+    cursor: pointer;
+}
+.icones4{ 
+    padding-left: 20px;
+    cursor: pointer;
+}
+#flexpedidos{ 
+    display: flex;
+    align-self: center;
+    margin-top: 50px;
+}
+.formslabel{ 
+    font-family: "Limelight", sans-serif;
+    font-size: 30px;
+}
+.back{ 
+    margin-left: -150px;
+    opacity: 0;
+    font-size: 50px;
+}
+.button{ 
+    height: 40px;
+    width: 250px;
+    background-color: #ffffff;
+    font-size: 25px;
+}
+#fspa{ 
+    margin-left: 150px;
+}
+.pedido{ 
+    background-color: #ffffff;
+    height: 130px;
+    width: 350px;
+    margin-left: 150px;
+}
+.forms{ 
+    width: 250px;
+}
+.forms2{ 
+    width: 250px;
+    margin-left: 150px;
+}
+.info{ 
+    font-size: 30px;
+    font-family: "Limelight", sans-serif;
+}
+#info{ 
+    margin-left: 50px;
+}
